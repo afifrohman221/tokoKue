@@ -1,0 +1,28 @@
+/* style.css */
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(
+    135deg,
+    #93a5cf,
+    #e4efe9
+  ); /* Ubah dengan warna yang Anda inginkan */
+}
+
+/* Contact Section */
+.contact {
+  background: linear-gradient(
+    135deg,
+    #c8d5b9,
+    #f5ddbb
+  ); /* Ubah dengan warna yang Anda inginkan */
+}
+
+/* Footer */
+footer {
+  background: linear-gradient(
+    135deg,
+    #e4efe9,
+    #93a5cf
+  ); /* Ubah dengan warna yang Anda inginkan */
+}
