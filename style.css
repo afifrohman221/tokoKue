@@ -2,27 +2,19 @@
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(
-    135deg,
-    #93a5cf,
-    #e4efe9
-  ); /* Ubah dengan warna yang Anda inginkan */
+  background-image: url("food-background.jpg"); /* Ganti dengan gambar latar belakang tema makanan */
+  background-size: cover;
+  background-position: center;
 }
 
 /* Contact Section */
 .contact {
-  background: linear-gradient(
-    135deg,
-    #c8d5b9,
-    #f5ddbb
-  ); /* Ubah dengan warna yang Anda inginkan */
+  background-image: url("food-pattern.jpg"); /* Ganti dengan gambar latar belakang tema makanan */
+  background-size: cover;
+  background-position: center;
 }
 
 /* Footer */
 footer {
-  background: linear-gradient(
-    135deg,
-    #e4efe9,
-    #93a5cf
-  ); /* Ubah dengan warna yang Anda inginkan */
+  background-color: #f8f8f8; /* Ubah dengan warna yang Anda inginkan */
 }
